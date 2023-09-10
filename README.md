@@ -1,7 +1,7 @@
 # Warm Greetings! Welcome to My GitHub Haven 👋
 
 ---
-![MacBook Pro 16_ - 2](https://github.com/tchisama/tchisama/assets/115560200/565854db-fc2f-4a18-b45a-aa2c3e96b20d)
+![MacBook Pro 16_ - 2](https://github.com/tchisama/tchisama/assets/115560200/d20c64c1-0d29-4d1e-a383-260aa7be1cf4)
 
 
 ## Delving into My Story
