@@ -1,0 +1,31 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Set the schedule to update at the desired interval (e.g., every hour)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          # Use the GitHub API to fetch your star count and repository count
+          stars=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/tchisama/tchisama | jq -r '.stars')
+          repos=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/tchisama/tchisama | jq -r '.public_repos')
+
+          # Replace placeholders in the README with actual star and repo counts
+          sed -i "s/{{stars}}/$stars/g" README.md
+          sed -i "s/{{repos}}/$repos/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README with star and repo counts"
+          git push
