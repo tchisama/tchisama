@@ -15,8 +15,8 @@ jobs:
       - name: Update README
         run: |
           # Use the GitHub API to fetch your star count and repository count
-          stars=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/user/tchisama | jq -r '.stars')
-          repos=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/user/tchisama | jq -r '.public_repos')
+          stars=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/users/tchisama | jq -r '.stars')
+          repos=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/users/tchisama | jq -r '.public_repos')
 
           # Replace placeholders in the README with actual star and repo counts
           sed -i "s/{{stars}}/$stars/g" README.md
