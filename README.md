@@ -23,7 +23,7 @@ Salutations! I am Tchisama, a fervent and adaptable Full Stack Web Developer bri
 | Domain               | Technologies                           |
 |----------------------|----------------------------------------|
 | Web Development     | HTML, CSS, JavaScript, React, Next.js, Vue.js, Angular, Node.js, Express, Firebase, SQL, MongoDB |
-| Blockchain          | Ethereum, Solidity, Smart Contracts     |
+| Blockchain     (I was)     | Ethereum, Solidity, Smart Contracts     |
 | Artificial Intelligence | Python, TensorFlow, Hugging Face, OpenAI |
 | Mobile App Development | React Native |
 | UI/UX Design | Figma, Adobe [ps,ai,xd,pr,ef] |
