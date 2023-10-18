@@ -2,7 +2,6 @@
 ![MacBook Pro 16_ - 2 (1)](https://github.com/tchisama/tchisama/assets/115560200/6e16648e-2990-4b10-a0fe-142c25030acc)
 
 
-
 ## Delving into My Story 
 
 Salutations! I am Tchisama, a fervent and adaptable Full Stack Web Developer brimming with a passion for conquering challenges and traversing diverse domains. My expertise flourishes in the realm of web development, while my adventurous spirit also beckons me to explore the captivating frontiers of blockchain, AI, and the realm of artistic expression. My journey through the enigmatic world of blockchain is in its nascent stages, yet I am eager to learn and thrive in this ever-evolving domain.
