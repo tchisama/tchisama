@@ -1,5 +1,5 @@
 
-![MacBook Pro 16_ - 2 (1)](https://github.com/tchisama/tchisama/assets/115560200/6e16648e-2990-4b10-a0fe-142c25030acc)
+![MacBook Pro 16_ - 2(2)](https://github.com/tchisama/tchisama/assets/115560200/715de1bf-4c2b-40fb-af3f-a3f2ce98ef0f)
 
 ## Delving into My Story 
 
