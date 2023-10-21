@@ -8,6 +8,7 @@ Salutations! I am Tchisama, a fervent and adaptable Full Stack Web Developer bri
 
 ## My Multifaceted Pursuits
 
+
 - 💻 Crafting Immersive Digital Realms: A virtuoso in constructing immersive and user-centric web experiences. From the fluidity of front-end design to the robust foundations of back-end systems, I am a maestro in conceiving seamless digital solutions.
 
 - 🌐 Passionate Project Maven: Driven by an insatiable curiosity that compels me to birth projects spanning diverse domains. Whether sculpting a cutting-edge web application, formulating blockchain-driven solutions, or engineering AI-infused marvels, I embrace each challenge with unwavering enthusiasm.
