@@ -7,5 +7,5 @@
 <p>
   <a href="https://github.com/qier222/currency-app"><img src="./images/2.png" width=48% alt="CurrencyApp - 汇率换算工具"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/qier222?tab=repositories"><img src="./images/4.png" width=48% alt="查看我的仓库"></a>
+  <a href="https://github.com/tchisama?tab=repositories"><img src="./images/4.png" width=48% alt="查看我的仓库"></a>
 </p>
