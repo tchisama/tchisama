@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/stickifyit"><img src="./images/5.png" width=40% alt=""></a>
+  <a href="https://github.com/stickifyit"><img src="./images/5.png" width=45% alt=""></a>
   &nbsp;&nbsp;&nbsp;
   <a href="#"><img src="./images/3.png" width=48% alt=""></a>
 </p>
