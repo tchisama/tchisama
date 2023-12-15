@@ -6,7 +6,7 @@
 <p>
   <a href="https://github.com/stickifyit"><img src="./images/5.png" width=46% alt=""></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="./images/3.png" width=48% alt=""></a>
+  <a href="#"><img src="./images/3.png" width=47% alt=""></a>
 </p>
 <p>
   <a href="https://tchisama.com"><img src="./images/2.png" width=47% alt=""></a>
