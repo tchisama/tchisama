@@ -1,6 +1,6 @@
 
 <p>
-  <a  href="https://tchisama.com"><img src="./images/hi.png" width=98% alt=""></a>
+  <a  href="https://tchisama.com"><img src="./images/hi.png" width=100% alt=""></a>
 </p>
 
 <p>
